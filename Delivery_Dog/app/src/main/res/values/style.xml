@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="alert" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="colorAccent">#8C9EFF</item>
+    </style>
+
+</resources>
